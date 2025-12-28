@@ -1,0 +1,22 @@
+No_Struk,Tanggal,Waktu,Kategori,Produk,Stock_Awal,Qty,Harga_Satuan,Total,Metode_Bayar
+1,01-01-2025,08:30,Minuman,Kopi Botol,10,2,10000,20000,Tunai
+2,01-01-2025,09:15,Makanan,Roti Cokelat,10,1,12000,12000,QRIS
+3,02-01-2025,12:00,Minuman,Air Mineral,10,3,5000,15000,Tunai
+4,02-01-2025,18:45,Lainnya,Baterai AA,10,1,25000,25000,Kartu
+5,03-01-2025,10:20,Minuman,Susu Kotak,10,2,8000,16000,QRIS
+6,03-01-2025,19:10,Makanan,Mie Instan,10,5,3500,17500,Tunai
+7,04-01-2025,07:45,Minuman,Kopi Botol,10,1,10000,10000,QRIS
+8,04-01-2025,13:30,Makanan,Snack Kentang,10,2,15000,30000,Tunai
+9,05-01-2025,16:20,Lainnya,Tisu Wajah,10,1,10000,10000,Kartu
+10,05-01-2025,20:00,Makanan,Mie Instan,10,10,3500,35000,Tunai
+11,06-01-2025,08:00,Minuman,Susu Kotak,10,1,8000,8000,QRIS
+12,06-01-2025,12:15,Makanan,Roti Cokelat,10,2,12000,24000,Tunai
+13,07-01-2025,17:40,Minuman,Air Mineral,10,2,5000,10000,QRIS
+14,07-01-2025,21:05,Makanan,Snack Kentang,10,1,15000,15000,Tunai
+15,08-01-2025,11:30,Lainnya,Baterai AA,10,2,25000,50000,Kartu
+16,08-01-2025,15:50,Minuman,Kopi Botol,10,3,10000,30000,QRIS
+17,09-01-2025,09:00,Makanan,Roti Cokelat,10,1,12000,12000,Tunai
+18,09-01-2025,14:20,Minuman,Susu Kotak,10,7,8000,56000,QRIS
+19,10-01-2025,18:30,Makanan,Mie Instan,10,7,3500,24500,Tunai
+20,10-01-2025,20:45,Minuman,Air Mineral,10,1,5000,5000,Kartu
+21,11-01-2025,07:15,Lainnya,Tisu Wajah,10,2,10000,20000,QRIS
