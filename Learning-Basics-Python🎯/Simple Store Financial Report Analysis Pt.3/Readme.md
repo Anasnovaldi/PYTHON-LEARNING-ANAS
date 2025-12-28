@@ -13,10 +13,10 @@ Struktur project dibuat agar rapi dan mudah diperluas.
 
 ```
 Project/
-│── data/                   # Folder penyimpanan seluruh file CSV
-│── program/                # Folder utama program
-│   │── Halaman_Depan.py    # Main program (menu utama)
-│   │── Perhitungan.py      # Modul analisis pendapatan/penjualan
+│── Database_/              # Folder penyimpanan seluruh file CSV
+│── Main_Folder/            # Folder utama program
+│   │── Main_Program.py     # Main program (menu utama)
+│   │── Analysis.py         # Modul analisis pendapatan/penjualan
 │── requirements.txt        # Daftar library yang digunakan
 └── README.md               # Dokumentasi project
 ```
@@ -63,5 +63,6 @@ Berisi fitur analisis:
    ```
 
 ---
+
 
 
