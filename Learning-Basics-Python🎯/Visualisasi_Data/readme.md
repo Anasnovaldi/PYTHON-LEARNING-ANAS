@@ -1,8 +1,9 @@
 # VISUALISASI DATA SEDERHANA DENGAN MATPLOTLIB
 
 <p align="center">
-  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="110" style="margin-right: 10px;">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="120">
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="110">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="110">
 </p>
 
 Program ini adalah aplikasi Python sederhana berbasis **pandas**, **matplotlib** yang digunakan untuk mencatat, mengelola, dan memvisualisasikan dalam bentuk file CSV.  
@@ -62,6 +63,7 @@ Berisi fitur visualisasi:
    ```
 
 ---
+
 
 
 
