@@ -8,6 +8,6 @@
 <h1 align="center">Python Learning Projects</h1>
 
 Repository ini berisi kumpulan project Python yang saya buat selama proses pembelajaran.  
-Semua proyek dibuat dengan berbagai library seperti NumPy, Pandas, Tkinter, dan Pygame.
+Semua proyek dibuat dengan berbagai library seperti NumPy, Pandas, Matplotlib, Tkinter, dan Pygame.
 
 ---
